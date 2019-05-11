@@ -14,6 +14,7 @@ gem "coffee-rails", "~> 4.2"
 gem "turbolinks", "~> 5"
 gem "jbuilder", "~> 2.5"
 gem "jquery-rails"
+gem "bootstrap-sass", "3.3.7"
 gem "mysql2", ">= 0.3.18", "< 0.5"
 gem "backbone-on-rails"
 
